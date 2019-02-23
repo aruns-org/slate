@@ -27,7 +27,7 @@ This example API documentation page was created with [Slate](https://github.com/
 
 # Authentication
 
-> To authorize, use this code:
+> To authorize, use this code :
 
 ```ruby
 require 'kittn'
